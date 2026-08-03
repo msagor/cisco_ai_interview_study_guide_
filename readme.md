@@ -1,6 +1,4 @@
-# 🚀 5-Day AI Security Research Engineer Interview Study Plan
-### Company: Cisco
-### Role: AI Security Research Engineer
+# 🚀 5-Day AI Security Engineer Interview Study Plan
 ### Goal
 This plan is designed to prepare for a senior AI Security Research Engineer interview focusing on:
 
